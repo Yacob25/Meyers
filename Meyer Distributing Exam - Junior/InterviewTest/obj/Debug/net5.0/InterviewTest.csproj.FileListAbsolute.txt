@@ -1,0 +1,30 @@
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.AssemblyInfo.cs
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.exe
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.deps.json
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.runtimeconfig.json
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.runtimeconfig.dev.json
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.dll
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.pdb
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.dll
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\refint\InterviewTest.dll
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.pdb
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.genruntimeconfig.cache
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\ref\InterviewTest.dll
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.exe
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.deps.json
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.runtimeconfig.json
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.runtimeconfig.dev.json
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.dll
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\bin\Debug\net5.0\InterviewTest.pdb
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.AssemblyInfo.cs
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.dll
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\refint\InterviewTest.dll
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.pdb
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\InterviewTest.genruntimeconfig.cache
+C:\Users\Student\Downloads\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\Meyer Distributing Exam - Junior\InterviewTest\obj\Debug\net5.0\ref\InterviewTest.dll
